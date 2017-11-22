@@ -1,9 +1,9 @@
-/app
+/app/*
 !/app/Providers/ModulesServiceProvider.php
 /bootstrap
 /config
 /database
-/modules
+/modules/*
 !/modules/Home
 /node_modules
 /public
